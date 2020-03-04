@@ -750,3 +750,8 @@ asp.cx
 163081.com
 360.cn
 hao.360.com
+wefan.baidu.com
+c.tieba.baidu.com
+jump2.bdimg.com
+dq.tieba.com
+live.baidu.com
